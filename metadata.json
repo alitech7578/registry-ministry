@@ -1,0 +1,7 @@
+{
+  "name": "MinisTrack - Government Digital File Transfer System",
+  "description": "A secure, enterprise-grade digital workflow and file management system for government ministries, featuring multi-role access control, audit trails, and automated transfer workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
